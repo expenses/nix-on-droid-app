@@ -1,0 +1,3 @@
+[submodule "termux-api"]
+	path = termux-api
+	url = git@github.com:termux/termux-api
