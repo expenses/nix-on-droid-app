@@ -59,12 +59,12 @@ android {
 
         manifestPlaceholders.TERMUX_PACKAGE_NAME = "com.termux.nix"
         manifestPlaceholders.TERMUX_APP_NAME = "Nix"
-        manifestPlaceholders.TERMUX_API_APP_NAME = "Termux:API"
-        manifestPlaceholders.TERMUX_BOOT_APP_NAME = "Termux:Boot"
-        manifestPlaceholders.TERMUX_FLOAT_APP_NAME = "Termux:Float"
-        manifestPlaceholders.TERMUX_STYLING_APP_NAME = "Termux:Styling"
-        manifestPlaceholders.TERMUX_TASKER_APP_NAME = "Termux:Tasker"
-        manifestPlaceholders.TERMUX_WIDGET_APP_NAME = "Termux:Widget"
+        manifestPlaceholders.TERMUX_API_APP_NAME = "Nix:API"
+        manifestPlaceholders.TERMUX_BOOT_APP_NAME = "Nix:Boot"
+        manifestPlaceholders.TERMUX_FLOAT_APP_NAME = "Nix:Float"
+        manifestPlaceholders.TERMUX_STYLING_APP_NAME = "Nix:Styling"
+        manifestPlaceholders.TERMUX_TASKER_APP_NAME = "Nix:Tasker"
+        manifestPlaceholders.TERMUX_WIDGET_APP_NAME = "Nix:Widget"
 
         /* NIX-ON-DROID: Unused
         externalNativeBuild {
